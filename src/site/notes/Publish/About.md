@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publish/about/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"About","permalink":"/About/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # About this Website
