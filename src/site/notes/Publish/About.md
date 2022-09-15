@@ -7,4 +7,4 @@ This website is an effort to share lecture notes, summaries and other artefacts 
 
 [[Publish/Who am I ?|Who am I ?]]
 
-This website was made using [Obsidian.md](https://www.obsidian.md), an awsome note taking app, as well as using The [Obsidian Digital Garden](https://https://github.com/oleeskild/obsidian-digital-garden) plugin made by [Ole Eskild Steensen](https://ole.dev/).  
+This website was made using [Obsidian.md](https://www.obsidian.md), an awsome note taking app, as well as using The [Digital Garden Obsidian plugin](https://https://github.com/oleeskild/obsidian-digital-garden)  made by [Ole Eskild Steensen](https://ole.dev/).  
