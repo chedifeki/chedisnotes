@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publish/it-engineering/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"IT-Engineering","permalink":"/IT-Engineering/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # IT Engineering
@@ -13,4 +13,4 @@ Courses :
 
 ___
 * Quick links :    
-	[[Publish/Chedi's Notes|Chedi's Notes]]    |     [[Publish/About|About]]    |     [[Publish/Who am I ?|Who am I ?]]   |     
+	[[Publish/Chedi's Notes|Back Home]]    |     [[Publish/About|About]]    |     [[Publish/Who am I ?|Who am I ?]]   |     
