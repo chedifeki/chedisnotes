@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/publish/it-bachelor/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"IT-Bachelor","permalink":"/IT-Bachelor/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # IT Bachelor Program
