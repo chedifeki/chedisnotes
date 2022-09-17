@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"IT-Bachelor","permalink":"/IT-Bachelor/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"itb","permalink":"/itb/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # IT Bachelor Program
@@ -10,5 +10,4 @@ Unfortunately I only started taking digitized notes from the 3rd semester Onward
 * End of Studies Project : [[Puzzle Solver|Puzzle Solver]]
 
 ___
-* Quick links :    
 	[[Publish/Chedi's Notes|Back Home]]    |    [[Publish/About|About]]    |     [[Publish/Who am I ?|Who am I ?]]   |     
