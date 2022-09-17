@@ -10,12 +10,16 @@ body {
     //  h1 {
     //   color: black;
     //  }
-    background-image: url("img/blackboard.jpg");
+   
     .content {
       background-color: #121212;
       padding: 15px;
       border-radius: 10px;
-      font-size: 14px;
+
+      font-size: 16px;
+    }
+    p{
+      padding:0px 15px;
     }
 
     h1{
