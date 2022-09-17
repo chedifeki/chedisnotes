@@ -10,4 +10,35 @@ body {
     //  h1 {
     //   color: black;
     //  }
+    background-image: "src/site/img/blackboard.jpg";
+    .content {
+      background-color: #121212;
+      padding: 15px;
+      border-radius: 10px;
+      font-size: 14px;
+    }
+
+    h1{
+      color: #FB4934;
+    }
+
+    h2{
+      color: #FE8019;
+    }
+
+    h3 {
+      color: #B8BB26;
+    }
+
+    h4{
+      color:#83A598;
+    }
+    
+    h5{
+      color:#D3869B;
+    }
+
+    h6{
+      color:#8EC87C;
+    }
 }
