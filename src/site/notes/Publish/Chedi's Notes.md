@@ -10,12 +10,12 @@ Please keep in mind that I'm not an expert and my notes should never be used as 
 
 ## Currently Studying
 * [[Publish/IT Engineering|IT Engineering]], [[Publish/IT Engineering#1st Semester|S1]]
-	* Course notes are coming soon
+	* [[__INBOX/ITE1101 - Algorithms and Procedural Programming in C|ITE1101 - Algorithms and Procedural Programming in C]]
+	* [[__INBOX/ITE1102 - Web Programming|ITE1102 - Web Programming]]
+	* [[__INBOX/ITE1103 - Data Bases|ITE1103 - Data Bases]]
+	* [[__INBOX/ITE1104 - Operating Systems|ITE1104 - Operating Systems]]
+	* [[__INBOX/ITE1105 -Computer Architecture|ITE1105 -Computer Architecture]]
 
-## Archive 
-* [[Publish/IT Bachelor|IT Bachelor]]
-	* End of Studies Project :  [[Puzzle Solver|Puzzle Solver]]
 
 ___
-* Quick links :    
-	 [[Publish/About|About]]    |     [[Publish/Who am I ?|Who am I ?]]   |     
+	[[Publish/About|About]]    |     [[Publish/Who am I ?|Who am I ?]]   |     
