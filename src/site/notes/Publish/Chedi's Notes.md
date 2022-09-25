@@ -10,11 +10,11 @@ Please keep in mind that I'm not an expert and my notes should never be used as 
 
 ## Currently Studying
 * [[Publish/IT Engineering|IT Engineering]], [[Publish/IT Engineering#1st Semester|S1]]
-	* [[__INBOX/ITE1101 - Algorithms and Procedural Programming in C|ITE1101 - Algorithms and Procedural Programming in C]]
+	* [[Publish/ITE1101 - Algorithms and Procedural Programming in C|ITE1101 - Algorithms and Procedural Programming in C]]
 	* [[__INBOX/ITE1102 - Web Programming|ITE1102 - Web Programming]]
 	* [[__INBOX/ITE1103 - Data Bases|ITE1103 - Data Bases]]
 	* [[__INBOX/ITE1104 - Operating Systems|ITE1104 - Operating Systems]]
-	* [[__INBOX/ITE1105 -Computer Architecture|ITE1105 -Computer Architecture]]
+	* [[__INBOX/ITE1105 - Computer Architecture|ITE1105 - Computer Architecture]]
 
 
 ___
