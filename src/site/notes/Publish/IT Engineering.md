@@ -6,11 +6,12 @@
 The IT Engineering program within [IIT](https://www.iit.tn) consists of 6 Semesters, the last of which being a End of Studies Internship within a company. 
 ## 1st Semester
 
-* [[__INBOX/ITE1101 - Algorithms and Procedural Programming in C|ITE1101 - Algorithms and Procedural Programming in C]]
+* [[Publish/ITE1101 - Algorithms and Procedural Programming in C|ITE1101 - Algorithms and Procedural Programming in C]]
 * [[__INBOX/ITE1102 - Web Programming|ITE1102 - Web Programming]]
 * [[__INBOX/ITE1103 - Data Bases|ITE1103 - Data Bases]]
 * [[__INBOX/ITE1104 - Operating Systems|ITE1104 - Operating Systems]]
-* [[__INBOX/ITE1105 -Computer Architecture|ITE1105 -Computer Architecture]]
+* [[__INBOX/ITE1105 - Computer Architecture|ITE1105 - Computer Architecture]]
+* [[ITE1106 - Logical Systems|ITE1106 - Logical Systems]]
 
 
 
